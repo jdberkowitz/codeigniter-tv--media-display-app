@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 885px;overflow: hidden;}
+	.video-wrapper{padding: 0px;}
+	.forecast-wrapper{padding: 5px;overflow: hidden;}
+		
+	h5.news-heading {font-size: 33px;font-weight: bold;margin-top:60px;}	  
+	h4.current-news-title {font-size: 22px;}
+
+	.navBulletsWrapper {display: none;}
+	video.video-item {background-color: #fff;}
+	  
+	/* Temperature bar */  
+	.current-temp {font-size: 30px;}	
+	.current-conditions {font-size: 18px;}
+	.mod-width {width: 5%;}	  
+	.box-border {border: 3px solid #efefef;border-radius: 20px;margin: 0px 7px;height: 165px;margin-top: 10px;background-color: #0000000d;}
+	  
+	h2 {margin-top: 5px;font-weight: bold;font-family: Impact, Charcoal, sans-serif;}
+		
+	h4 {margin-bottom: 0px;}
+	  
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #fff; /*#f1f1f1;*/
+      height: 100%;
+	  padding-top: 10px;
+	  background: url('https://joshuaberkowitz.us/TVCOM2/CodeIgniter/assets/content/images/sidebar-media.jpg');
+    }
+    
+    footer {}
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {height: auto;padding: 15px;}
+      .row.content {height: auto;} 
+    }

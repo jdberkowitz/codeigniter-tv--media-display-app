@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Dania, FL",
+		"city":"Dania",
+		"state":"FL",
+		"state_name":"Florida",
+		"country":"US",
+		"country_iso3166":"US",
+		"zip":"33004",
+		"magic":"1",
+		"wmo":"99999",
+		"latitude":"26.05999947",
+		"longitude":"-80.15000153",
+		"elevation":"3.0"
+		},
+		"observation_location": {
+		"full":"Melaleuca Gardens, Dania, Florida",
+		"city":"Melaleuca Gardens, Dania",
+		"state":"Florida",
+		"country":"US",
+		"country_iso3166":"US",
+		"latitude":"26.060507",
+		"longitude":"-80.150681",
+		"elevation":"10 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"KFLDANIA3",
+		"observation_time":"Last Updated on March 19, 1:06 PM EDT",
+		"observation_time_rfc822":"Mon, 19 Mar 2018 13:06:43 -0400",
+		"observation_epoch":"1521479203",
+		"local_time_rfc822":"Mon, 19 Mar 2018 13:12:38 -0400",
+		"local_epoch":"1521479558",
+		"local_tz_short":"EDT",
+		"local_tz_long":"America/New_York",
+		"local_tz_offset":"-0400",
+		"weather":"Mostly Cloudy",
+		"temperature_string":"86.0 F (30.0 C)",
+		"temp_f":86.0,
+		"temp_c":30.0,
+		"relative_humidity":"47%",
+		"wind_string":"Calm",
+		"wind_dir":"SW",
+		"wind_degrees":225,
+		"wind_mph":0.0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1012",
+		"pressure_in":"29.88",
+		"pressure_trend":"-",
+		"dewpoint_string":"63 F (17 C)",
+		"dewpoint_f":63,
+		"dewpoint_c":17,
+		"heat_index_string":"87 F (31 C)",
+		"heat_index_f":87,
+		"heat_index_c":31,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"87 F (31 C)",
+		"feelslike_f":"87",
+		"feelslike_c":"31",
+		"visibility_mi":"10.0",
+		"visibility_km":"16.1",
+		"solarradiation":"--",
+		"UV":"7","precip_1hr_string":"-999.00 in ( 0 mm)",
+		"precip_1hr_in":"-999.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.00 in (0 mm)",
+		"precip_today_in":"0.00",
+		"precip_today_metric":"0",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/US/FL/Dania.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=KFLDANIA3",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=26.060507,-80.150681",
+		"nowcast":""
+	}
+}
