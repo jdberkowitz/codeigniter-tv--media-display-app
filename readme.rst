@@ -1,4 +1,11 @@
 ###################
+TV MEDIA APP	
+###################
+This app was written as a proof of concept for a startup that was creating an app to display media and local news on managed digital displays around the country. The API was developed in Codeigniter and a JS grid used for data manipulation. The app was in production for 6 months managing 24 screens across the US. Ultimately the company was ended and the app is now available here. The codeigniter framework allowed for rapid development and is outlined with the standard docs below.
+
+If you have questions or comments please feel free to reach out to me.
+
+###################
 What is CodeIgniter
 ###################
 
